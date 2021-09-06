@@ -1,11 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
 @font-face {
     font-family: 'NanumBarunGothic';
     src: url("../font/NanumBarunGothic.woff") format('truetype');
 }
-@font-face {
-    font-family: 'Bebas Neue', cursive;
-    src: url("../font/BebasNeue-Regular.woff") format('truetype');
-}
+
 
 * {margin:0; padding:0;}
 a {text-decoration: none; color:#202040; display: block;}
